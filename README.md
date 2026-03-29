@@ -61,6 +61,22 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🌐 Educational Website — CrownEd</h3>
+      <p align="center">
+        Educational platform offering online classes and smart sessions for children from beginner to expert level. Built with HTML, CSS and JavaScript.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/jais001-sushant/CrownEd" target="_blank">
+          <img src="https://img.shields.io/badge/📂 GitHub-100000?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">☀️ Solar AI Assistant</h3>
       <p align="center">
         AI-powered rooftop analysis tool for solar panel installation estimates in India. Uses Claude AI + OpenCV for real rooftop detection with financial & environmental insights.
@@ -134,22 +150,6 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Educational Website — CrownEd</h3>
-      <p align="center">
-        Educational platform offering online classes and smart sessions for children from beginner to expert level. Built with HTML, CSS and JavaScript.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/jais001-sushant/CrownEd" target="_blank">
-          <img src="https://img.shields.io/badge/📂 GitHub-100000?style=for-the-badge"/>
-        </a>
-      </p>
-    </td>
     <td width="50%">
       <h3 align="center">🔭 More Coming Soon...</h3>
       <p align="center">
