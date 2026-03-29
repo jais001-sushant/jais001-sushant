@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=700&lines=AI+%26+ML+Student+%F0%9F%A4%96;Python+%26+Java+Developer+%F0%9F%90%8D;Building+Real+World+AI+Projects+%F0%9F%9A%80;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<!-- <img src="https://komarev.com/ghpvc/?username=jais001-sushant&label=Profile%20Views&color=6E40C9&style=flat" alt="Profile Views" /> -->
+<img src="https://komarev.com/ghpvc/?username=jais001-sushant&label=Profile%20Views&color=6E40C9&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -60,22 +60,6 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Educational Website — CrownEd</h3>
-      <p align="center">
-        Educational platform offering online classes and smart sessions for children from beginner to expert level. Built with HTML, CSS and JavaScript.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/jais001-sushant/CrownEd" target="_blank">
-          <img src="https://img.shields.io/badge/📂 GitHub-100000?style=for-the-badge"/>
-        </a>
-      </p>
-    </td>
     <td width="50%">
       <h3 align="center">☀️ Solar AI Assistant</h3>
       <p align="center">
@@ -150,6 +134,22 @@
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Educational Website — CrownEd</h3>
+      <p align="center">
+        Educational platform offering online classes and smart sessions for children from beginner to expert level. Built with HTML, CSS and JavaScript.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/jais001-sushant/CrownEd" target="_blank">
+          <img src="https://img.shields.io/badge/📂 GitHub-100000?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">🔭 More Coming Soon...</h3>
       <p align="center">
