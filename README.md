@@ -9,3 +9,15 @@
 </div>
 
 ---
+
+## 🙋‍♂️ About Me
+
+- 🎓 3rd Year **B.Tech CSE (AI/ML)** student at **UPES, Dehradun**
+- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🔭 Currently working on → **Early Disease Prediction System**
+- 🌱 Currently learning → **Scikit-learn | Pandas | ML Algorithms**
+- 💡 I love building projects that solve **real world problems**
+- 🚀 Goal → Build impactful AI products that actually matter
+- ⚡ Fun fact → I debug code at 2AM and somehow it always works 😄
+
+---
