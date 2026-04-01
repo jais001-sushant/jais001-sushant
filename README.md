@@ -172,7 +172,7 @@
 
 **🏢 Intern — Aadi Foundation** *(June 2024 – August 2024)*
 - Developed homepage and managed content for an educational platform website
-- - Resolved GitHub issues and improved code efficiency by **25%** by optimizing frontend structure and reducing redundant operations
+- Resolved GitHub issues and improved code efficiency by **25%** by optimizing frontend structure and reducing redundant operations
 - Created Excel databases and assisted in outreach for internship collaborations
 
 ---
@@ -197,6 +197,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais001-sushant&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%" />
 
 </div>
+
+---
+
+## 🎯 Looking For
+
+- AI/ML Internship Opportunities  
+- Real-world problem solving projects  
+- Open Source Contributions
 
 ---
 
