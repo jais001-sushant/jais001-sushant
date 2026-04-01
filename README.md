@@ -200,6 +200,16 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jais001-sushant&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -207,6 +217,10 @@
 ![Snake animation](https://raw.githubusercontent.com/jais001-sushant/jais001-sushant/output/github-contribution-grid-snake.svg)
 
 </div>
+
+---
+
+
 
 ---
 
