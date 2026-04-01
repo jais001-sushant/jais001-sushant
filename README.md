@@ -204,7 +204,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jais001-sushant&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=jais001-sushant&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -220,7 +220,11 @@
 
 ---
 
+## 🎯 Looking For
 
+- AI/ML Internship Opportunities  
+- Real-world problem solving projects  
+- Open Source Contributions  
 
 ---
 
