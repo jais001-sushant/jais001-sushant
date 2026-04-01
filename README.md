@@ -187,14 +187,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jais001-sushant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jais001-sushant&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
 <img src="https://streak-stats.demolab.com?user=jais001-sushant&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais001-sushant&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais001-sushant&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
