@@ -12,12 +12,14 @@
 
 ## 🙋‍♂️ About Me
 
+🚀 AI/ML Developer focused on building real-world intelligent systems with measurable impact
+
 - 🎓 3rd Year **B.Tech CSE (AI/ML)** student at **UPES, Dehradun**
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🤖 Building AI solutions that solve real-world problems
 - 💼 Ex-Intern at **Aadi Foundation** — Web Dev + Social Outreach
 - 🔭 Currently working on → **Early Disease Prediction System**
 - 🌱 Currently learning → **Scikit-learn | Pandas | ML Algorithms**
-- 💡 I love building projects that solve **real world problems**
+- 📊 Built 5+ real-world projects with live deployments
 - 🚀 Future goals → **Resume Ranker | Alzheimer Detection | Jarvis AI**
 - ⚡ Fun fact → I debug code at 2AM and somehow it always works 😄
 
