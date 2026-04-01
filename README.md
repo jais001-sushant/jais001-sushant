@@ -65,7 +65,9 @@
     <td width="50%">
       <h3 align="center">☀️ Solar AI Assistant</h3>
       <p align="center">
-        AI-powered rooftop analysis tool for solar panel installation estimates in India. Uses Claude AI + OpenCV for real rooftop detection with financial & environmental insights.
+        🔍 Problem: Manual rooftop analysis for solar installation is slow and inaccurate  
+        Solution: Developed an AI-powered tool using OpenCV + Claude AI for automated rooftop detection and estimation  
+        📈 Impact: Reduced analysis time and provided cost + environmental insights
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
