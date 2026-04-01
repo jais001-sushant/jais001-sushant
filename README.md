@@ -177,6 +177,12 @@
 
 ---
 
+## 🔥 Currently Building
+
+- 🧠 Early Disease Prediction System using Machine Learning
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
