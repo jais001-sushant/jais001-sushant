@@ -65,9 +65,7 @@
     <td width="50%">
       <h3 align="center">☀️ Solar AI Assistant</h3>
       <p align="center">
-        🔍 Problem: Manual rooftop analysis for solar installation is slow and inaccurate  
-        Solution: Developed an AI-powered tool using OpenCV + Claude AI for automated rooftop detection and estimation  
-        📈 Impact: Reduced analysis time and provided cost + environmental insights
+        AI-powered rooftop analysis tool for solar panel installation estimates in India. Uses Claude AI + OpenCV for real rooftop detection with financial & environmental insights.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -174,7 +172,7 @@
 
 **🏢 Intern — Aadi Foundation** *(June 2024 – August 2024)*
 - Developed homepage and managed content for an educational platform website
-- Resolved GitHub issues and improved code efficiency by **25%**
+- - Resolved GitHub issues and improved code efficiency by **25%** by optimizing frontend structure and reducing redundant operations
 - Created Excel databases and assisted in outreach for internship collaborations
 
 ---
