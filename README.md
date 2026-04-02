@@ -181,6 +181,7 @@
 
 - 🎵 Music Recommendation System using Machine Learning to suggest personalized songs based on user preferences
 - 🧠 Early Disease Prediction System using Machine Learning
+- 🤖 Jarvis AI Assistant using Python for voice commands, task automation, and smart interactions
 
 ---
 
