@@ -173,13 +173,13 @@
 **🏢 Intern — Aadi Foundation** *(June 2024 – August 2024)*
 - Developed homepage and managed content for an educational platform website
 - Resolved GitHub issues and improved code efficiency by **25%** by optimizing frontend structure and reducing redundant operations
-<!-- - Resolved GitHub issues and improved code efficiency by **25%** -->
 - Created Excel databases and assisted in outreach for internship collaborations
 
 ---
 
 ## 🔥 Currently Building
 
+- 🎵 Music Recommendation System using Machine Learning to suggest personalized songs based on user preferences
 - 🧠 Early Disease Prediction System using Machine Learning
 
 ---
