@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 AI/ML Developer focused on building real-world systems with measurable impact
+🚀 AI/ML Developer focused on building real-world intelligent systems with measurable impact
 
 - 🎓 3rd Year **B.Tech CSE (AI/ML)** student at **UPES, Dehradun**
 - 🤖 Building AI solutions that solve real-world problems
